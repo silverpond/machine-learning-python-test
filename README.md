@@ -28,9 +28,11 @@ We would like this notebook to be hosted on your own GitHub (or other public
 git source control system; we want to know you can use Git!). Don't worry if
 it's the only thing on your account!
 
-Please try not to spend more than 6 hours; so either try and explain well a
-concept you're already familiar with, or peform a brief investigation into the
-open areas of a interesting technique!
+Please try not to spend more than 6 hours (we'd aim for 2-4 hours); so either
+try and explain well a concept you're already familiar with, or peform a brief
+investigation into the open areas of a interesting technique! If you get
+stuck, documenting your current understanding and future directions of
+investigation would be a nice way to conclude.
 
 ### Potential example projects:
 
