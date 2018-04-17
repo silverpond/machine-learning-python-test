@@ -1,6 +1,6 @@
 # Silverpond Internship Test
 
-## Hello!
+## Hello! Hola! Kon’nichiwa! Ni-hao! Hallå ! Aloha! مرحبا!
 
 We'd like you to prepare some code in a [Jupyter
 Notebook](http://jupyter.org/) that explains a concept in machine
@@ -16,6 +16,7 @@ As a team we're particularly interested in, and will be looking for:
 - Tying-back final output to original goals,
 - Different viewpoints,
 - Fundamental understanding,
+- Visual explanations,
 - Awareness of knowledge boundaries (_"What do I know about how much I know!"_).
 
 As a reference, your notebook need not be any longer than the one that we use
@@ -29,7 +30,7 @@ git source control system; we want to know you can use Git!). Don't worry if
 it's the only thing on your account!
 
 Please try not to spend more than 6 hours (we'd aim for 2-4 hours); so either
-try and explain well a concept you're already familiar with, or peform a brief
+try and explain well a concept you're already familiar with, or perform a brief
 investigation into the open areas of a interesting technique! If you get
 stuck, documenting your current understanding and future directions of
 investigation would be a nice way to conclude.
