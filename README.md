@@ -44,17 +44,17 @@ interested in. Please feel free to come up with your own!
    independently of deep learning, and tests a few different varieties on
    images.
 
-2. _Algebra on auto-encoders_: A notebook that loads up an existing auto-encoder
-   model and performs some algebra within it, to demonstrate what it's
-   capabilities are.
+2. _Algebra on auto-encoders_: A notebook that loads up an existing
+   auto-encoder model and performs some algebra, on the latent vectors, within
+   it, to demonstrate what it's capabilities are.
 
 3. _t-SNE_: A notebook that takes a model that produces some latent vector
     `z`, and performs t-SNE on it, then explains what the t-SNE is
     doing.
 
-4. _Bayesian probability_: A notebook that demonstrates how bayesian probability
+4. _Bayesian probability_: A notebook that demonstrates how Bayesian probability
    works, and some examples of prior-updates, and computations of the
-   probabilities in a few different scenarios.
+   posteriors in a few different scenarios.
 
 5. _Bias in ML_: A notebook that explains how bias can be found in ML models,
    and highlights a few ways that people are attempting to solve this problem.
