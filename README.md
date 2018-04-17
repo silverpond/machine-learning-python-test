@@ -1,6 +1,6 @@
 # Silverpond Internship Test
 
-## Hello! Hola! Kon’nichiwa! Ni-hao! Hallå ! Aloha! مرحبا!
+## Hello! Hola! Kon’nichiwa! Ni-hao! Hallå ! Aloha! !مرحبا
 
 We'd like you to prepare some code in a [Jupyter
 Notebook](http://jupyter.org/) that explains a concept in machine
