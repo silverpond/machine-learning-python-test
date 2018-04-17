@@ -16,12 +16,12 @@ As a team we're particularly interested in, and will be looking for:
 - Tying-back final output to original goals,
 - Different viewpoints,
 - Fundamental understanding,
-- Awareness of knowledge boundaries ("What do I know about how much I know!").
+- Awareness of knowledge boundaries (_"What do I know about how much I know!"_).
 
 As a reference, your notebook need not be any longer than the one that we use
 for the prerequisite for the deep learning workshop:
 
-- [Python Prerequisite for the Deep Learning
+- [Python Prerequisites for the Deep Learning
 Workshop](https://github.com/silverpond/dl-workshop-pre-req/blob/master/Pre-Requesites.ipynb)
 
 We would like this notebook to be hosted on your own GitHub (or other public
@@ -29,8 +29,8 @@ git source control system; we want to know you can use Git!). Don't worry if
 it's the only thing on your account!
 
 Please try not to spend more than 6 hours; so either try and explain well a
-concept you're already familiar with, or peform a brieft investigation into
-the open areas of a interesting technique!
+concept you're already familiar with, or peform a brief investigation into the
+open areas of a interesting technique!
 
 ### Potential example projects:
 
