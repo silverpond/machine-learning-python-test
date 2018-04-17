@@ -58,3 +58,7 @@ interested in. Please feel free to come up with your own!
 
 6. _Precision scores_: An overview of the different measures that people use
    to assess the capability of different ML models.
+
+7. _An Exploration of the TensorFlow Tensor_: An review of what Tensors are,
+   in the context of TensorFlow, and the various operations that can be
+   performed on them, and what their affect is.
