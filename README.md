@@ -34,7 +34,8 @@ open areas of a interesting technique!
 
 ### Potential example projects:
 
-Here are some ideas that should indicate the general direction we're interested in.
+Here are some ideas that should indicate the general direction we're
+interested in. Please feel free to come up with your own!
 
 1. _Playing with convolutions_: A notebook that looks at convolutions, purely
    independently of deep learning, and tests a few different varieties on
@@ -45,7 +46,7 @@ Here are some ideas that should indicate the general direction we're interested 
    capabilities are.
 
 3. _t-SNE_: A notebook that takes a model that produces some latent vector
-    $\vec{z}$, and performs t-SNE on it, then explains what the t-SNE is
+    `z`, and performs t-SNE on it, then explains what the t-SNE is
     doing.
 
 4. _Bayesian probability_: A notebook that demonstrates how bayesian probability
