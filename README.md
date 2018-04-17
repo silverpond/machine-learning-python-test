@@ -1,4 +1,4 @@
-# Silverpond Internship Test
+# Silverpond AI Internship Test
 
 ## Hello! Hola! Kon’nichiwa! Ni-hao! Hallå ! Aloha! !مرحبا
 
