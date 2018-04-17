@@ -65,3 +65,9 @@ interested in. Please feel free to come up with your own!
 7. _An Exploration of the TensorFlow Tensor_: An review of what Tensors are,
    in the context of TensorFlow, and the various operations that can be
    performed on them, and what their affect is.
+
+
+### Notes
+
+If you wish, you could configure your repo so that it can be executed in the
+[MyBinder.org](mybinder.org) environment; but this isn't necessary!
