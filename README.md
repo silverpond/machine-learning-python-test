@@ -70,4 +70,4 @@ interested in. Please feel free to come up with your own!
 ### Notes
 
 If you wish, you could configure your repo so that it can be executed in the
-[MyBinder.org](mybinder.org) environment; but this isn't necessary!
+[MyBinder.org](https://mybinder.org) environment; but this isn't necessary!
