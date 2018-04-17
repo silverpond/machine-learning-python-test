@@ -54,3 +54,6 @@ Here are some ideas that should indicate the general direction we're interested 
 
 5. _Bias in ML_: A notebook that explains how bias can be found in ML models,
    and highlights a few ways that people are attempting to solve this problem.
+
+6. _Precision scores_: An overview of the different measures that people use
+   to assess the capability of different ML models.
