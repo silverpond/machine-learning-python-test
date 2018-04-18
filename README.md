@@ -72,6 +72,11 @@ interested in. Please feel free to come up with your own!
    input grows, or similar visual explanation of what is going on under the
    hood.
 
+9. _TensorBoard Visualisation_: An example of using TensorBoard for
+   visualising different graphs, images, and perhaps even some potential
+   embeddings! Doesn't neccessarily use a real neural network, just
+   demonstrates using a few features of TensorBoard itself.
+
 
 ### Notes
 
