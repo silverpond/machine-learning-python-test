@@ -31,7 +31,7 @@ it's the only thing on your account!
 
 Please try not to spend more than 6 hours (we'd aim for 2-4 hours); so either
 try and explain well a concept you're already familiar with, or perform a brief
-investigation into the open areas of a interesting technique! If you get
+investigation into the open areas of an interesting technique! If you get
 stuck, documenting your current understanding and future directions of
 investigation would be a nice way to conclude.
 
@@ -57,12 +57,12 @@ interested in. Please feel free to come up with your own!
    posteriors in a few different scenarios.
 
 5. _Bias in ML_: A notebook that explains how bias can be found in ML models,
-   and highlights a few ways that people are attempting to solve this problem.
+   and highlights a few ways that people are attempting to approach this problem.
 
 6. _Precision scores_: An overview of the different measures that people use
    to assess the capability of different ML models.
 
-7. _An Exploration of the TensorFlow Tensor_: An review of what Tensors are,
+7. _An Exploration of the TensorFlow Tensor_: A review of what Tensors are,
    in the context of TensorFlow, and the various operations that can be
    performed on them, and what their affect is.
 
