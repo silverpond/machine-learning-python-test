@@ -66,6 +66,12 @@ interested in. Please feel free to come up with your own!
    in the context of TensorFlow, and the various operations that can be
    performed on them, and what their affect is.
 
+8. _Learning about Fully Connected Networks_: A tour through your own learning
+   of how to build a few fully-connected networks in PyTorch or TensorFlow;
+   perhaps with some investigation into how many parameters they have as the
+   input grows, or similar visual explanation of what is going on under the
+   hood.
+
 
 ### Notes
 
