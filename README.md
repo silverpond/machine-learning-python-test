@@ -1,4 +1,4 @@
-# Silverpond AI Internship Test
+# Silverpond Machine Learning and AI Python Test
 
 ## Hello! Hola! Kon’nichiwa! Ni-hao! Hallå ! Aloha! !مرحبا
 
